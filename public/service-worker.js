@@ -17,7 +17,7 @@ const FILES_TO_CACHE = [
     './icons/icon-512x512.png'
 ];
 
-// The following 3 event listener code blocks were copied and modified from the University of Texas Code Bootcamp Module 19 course project.
+// The following 3 event listener code blocks were copied and modified from the University of Texas Code Bootcamp Module 19 project.
 self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.open(CACHE_NAME).then(function (cache) {
