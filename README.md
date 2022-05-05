@@ -8,6 +8,8 @@ Visit the deployed site here:
 
 ## Description
 
+![Budget Tracking App with graph showing income/expenses](https://github.com/strudelAndCoffee/checks-n-balances/blob/main/assets/images/screencap.png)
+
 - A user can log transactions by entering a transaction name, dollar amount, and increase/decrease value option for each log.
 
 - A graphical interface shows you your income/expenses as you log them over time.
