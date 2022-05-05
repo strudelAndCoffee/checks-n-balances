@@ -32,7 +32,7 @@ function uploadData() {
 
     getAll.onsuccess = function() {
         if (getAll.result.length > 0) {
-            // copied fetch request from index.js sendTransaction function
+            // fetch request copied from 'sendTransaction' function in 'index.js'
             fetch("/api/transaction", {
                 method: "POST",
                 body: JSON.stringify(getAll.result),
