@@ -4,7 +4,7 @@ is a budget tracking app, set up as a PWA (Progressive Web App) that you can use
 
 Visit the deployed site here:
 
-[Checkas & Balances](https://rocky-scrubland-32612.herokuapp.com/)
+[Checks & Balances](https://rocky-scrubland-32612.herokuapp.com/)
 
 ## Description
 
